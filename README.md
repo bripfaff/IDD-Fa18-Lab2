@@ -26,7 +26,7 @@ Include your responses to the bold questions on your own fork of [this lab repor
 
 4.8-5.2 Volts as seen in the datasheet.
 
-[a relative link](./Capture.PNG)
+![a relative link](./Capture.PNG)
 
 **b. What voltage level do you need to power the display backlight?**
 
