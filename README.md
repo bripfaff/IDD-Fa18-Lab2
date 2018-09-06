@@ -24,11 +24,13 @@ Include your responses to the bold questions on your own fork of [this lab repor
  
 **a. What voltage level do you need to power your display?**
 
-4.8-5.2 Volts as seen in the datasheet.
+4.8-5.2 Volts as seen in the datasheet below.
 
 ![a relative link](./Capture.PNG)
 
 **b. What voltage level do you need to power the display backlight?**
+
+3.2V. Do not attach it to the 5.0V as it will ruin the backlight as seen below.
 
 ![a relative link](./Capture3.PNG)
    
