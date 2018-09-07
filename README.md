@@ -51,6 +51,7 @@ lcd.print("Brian");
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
+[Multimeter code](https://github.com/bripfaff/IDD-Fa18-Lab2/blob/master/my_multimeter.ino)
 
 ## Part C. Using a time-based digital sensor
 
