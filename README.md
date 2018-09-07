@@ -36,6 +36,7 @@ Include your responses to the bold questions on your own fork of [this lab repor
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
+Nothing I really didnt make any errors with the instructions given. 
 
 
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
