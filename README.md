@@ -61,9 +61,11 @@ lcd.print("Brian");
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
- 
+Change this line of code ``` int noteDuration = 1000 / noteDurations[thisNote]; ```
+to ```int noteDuration = 1000 / (noteDurations[thisNote]*2); ```
 **b. What song is playing?**
 
+Star Wars
 
 ## Part E. Make your own timer
 
