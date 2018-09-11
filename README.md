@@ -74,4 +74,7 @@ Star Wars
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
+
+Done in collaboration with Karem Arem: Link to [Beer Chugging Timer](https://www.youtube.com/watch?v=Po7BjSpJiNE)
+
 **b. Post a link to the completed lab report your class hub GitHub repo.**
