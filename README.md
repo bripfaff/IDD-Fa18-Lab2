@@ -55,7 +55,7 @@ lcd.print("Brian");
 
 ## Part C. Using a time-based digital sensor
 
-**Upload a video of your working rotary encoder here.**
+[Rotary Encoder Video](https://youtu.be/78G9kaUlpD0)
 
 
 ## Part D. Make your Arduino sing!
